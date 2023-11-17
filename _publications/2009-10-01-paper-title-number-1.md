@@ -11,7 +11,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 This paper is about the number 1. The number 2 is left for future work.
 
 Testing Math eqs.  
-$ \frac{1}{x} = y / z $  
+$$ \frac{1}{x} = y / z $$  
 $ \int x^2 dx $
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
